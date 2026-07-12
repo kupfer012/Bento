@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'Patrik',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
+			name: 'Bunpro',
+			icon: 'bunpro',
 			link: 'https://github.com/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://gmail.com/',
+			link: 'https://bunpro.jp/dashboard',
 		},
 		{
 			id: '3',
